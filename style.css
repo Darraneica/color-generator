@@ -1,0 +1,47 @@
+/* Organize the colors by red, green, and blue.*/
+
+#red{
+    background-color: red;
+   
+}
+
+#green{
+    background-color: green;
+}
+
+
+#blue{
+    background-color: blue;
+}
+
+#random{
+    background-color: rgb(201, 24, 95);
+}
+
+
+/* Organize h1 + body + button */
+
+h1{
+    font-weight: bolder;
+}
+
+body{
+    background-color: ghostwhite;
+ 
+}
+
+button{
+    margin-top: 100px;
+    margin-left: 150px;
+    color: azure;
+    font-size: 36px;
+    font-weight: bolder;
+    width: 200px;
+    padding: 20px;
+    border: none;
+
+}
+
+small{
+    margin-bottom: 200px;
+}
